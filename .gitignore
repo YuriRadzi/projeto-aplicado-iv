@@ -220,3 +220,8 @@ __marimo__/
 
 # diretórios temporários: 
 dados/raw/*
+
+notebooks/lightning_logs/*
+
+notebooks/bkp
+
